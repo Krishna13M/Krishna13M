@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna13m&label=Profile%20views&color=0e75b6&style=flat" alt="krishna13m" /> </p>
 
-- 🔭 I’m currently working on **a Machine Learning project**
-
-- 🌱 I’m currently learning **Pandas, Regression and Data Structures**
+- 🌱 I’m currently learning **Statistics and Probability**
 
 - 🤝 I’m looking for help with **Data Science and DSA**
 
